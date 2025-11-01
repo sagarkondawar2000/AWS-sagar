@@ -1,0 +1,13 @@
+Introduction to Networking
+
+The term networking refers to interconnected devices that can exchange data and resources. 
+Networking in the AWS Cloud consists of the infrastructure and services working together to host your applications, data, and any other resources you might need. 
+Let's get started and learn about the foundational network components used in the AWS Cloud.
+
+Amazon Virtual Private Cloud (Amazon VPC)
+An Amazon VPC lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
+
+Subnet
+Subnets are used to organize your resources and can be made publicly or privately accessible. A private subnet is commonly used to contain resources like a database storing customer or transactional information. A public subnet is commonly used for resources like a customer-facing website.v
+
+
