@@ -1,0 +1,11 @@
+Relational Db:
+  RDS
+  Aurora
+NoSQl
+  AWS DynamoDB
+In memory cache
+  AWS Elastic Cache
+
+documentdb
+awsbackup
+aws neptune
